@@ -1,0 +1,38 @@
+<application>
+  <component name="libraryTable">
+    <library name="Python 3.5 (forest-grass) interpreter library">
+      <CLASSES>
+        <root url="file://C:/Python35/DLLs" />
+        <root url="file://C:/Python35/Lib" />
+        <root url="file://C:/Python35" />
+        <root url="file://E:/IntelliJ IDEA/forest-grass/venv" />
+        <root url="file://E:/IntelliJ IDEA/forest-grass/venv/Lib/site-packages" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.1/python_stubs/2027554751" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Python35/DLLs" />
+        <root url="file://C:/Python35/Lib" />
+        <root url="file://C:/Python35" />
+        <root url="file://E:/IntelliJ IDEA/forest-grass/venv" />
+        <root url="file://E:/IntelliJ IDEA/forest-grass/venv/Lib/site-packages" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.1/python_stubs/2027554751" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.5 interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
